@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Gomoku3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gomoku3_jar</output-path>
+    <root id="archive" name="Gomoku3.jar">
+      <element id="module-output" name="Gomoku3" />
+    </root>
+  </artifact>
+</component>
